@@ -38,7 +38,7 @@ Whereas, on the other hand, SVM has :<br>
 
 So, SVM is much slower as compared to Naive Bayes.
 To fast SVM algorithm, we can reduce training data. 
-Refer to the <a href="https://github.com/bodhwani/Machine-Learning/blob/master/Assignments/_Solutions/svm/svm_author_id.py">code</a> to know, how to reduce training data.<br>
+Refer to the <a href="https://github.com/bodhwani/Machine-Learning/blob/master/_Solutions/svm/svm_author_id.py">code</a> to know, how to reduce training data.<br>
 After reducing, accuracy comes out to be :
 - accuracy: 0.88452787258248011
 - training time: 0.141 s

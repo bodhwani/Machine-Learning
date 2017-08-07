@@ -11,4 +11,4 @@ Naive Bayes predictions in text classifier. This code will be using scikit-learn
 
 Create and train a Naive Bayes classifier in <a href="https://github.com/bodhwani/Machine-Learning/blob/master/Assignments/naive_bayes/nb_author_id.py">nb_author_id.py</a>. Use it to make predictions for the test set. What is the accuracy?<br>
 
-Go to the Assignments/_Solution directory and run  <a href="https://github.com/bodhwani/Machine-Learning/blob/master/Assignments/_Solutions/naive_bayes/nb_author_id.py">nb_author_id.py</a> script to match your result.
+Go to the _Solution directory and run  <a href="https://github.com/bodhwani/Machine-Learning/blob/master/_Solutions/naive_bayes/nb_author_id.py">nb_author_id.py</a> script to match your result.
