@@ -47,6 +47,7 @@ AdaBoost can be used to boost the performance of any machine learning algorithm.
 <br>The most suited and therefore most common algorithm used with AdaBoost are decision trees with one level. Because these trees are so short and only contain one decision for classification, they are often called decision stumps.
 
 ### Output 
+Calculate the accuracies of every classifier and compare. <a href="https://github.com/bodhwani/Machine-Learning/blob/master/_Solutions/choose_your_own/your_algorithm.py">Here is the code for finding accuracy.</a>
 Here is the accuracy according to the classifiers above :
 - ('Accuracy for KNN classifier is ', 0.97333333333333338)
 - ('Accuracy for RANDOM FOREST classifier is ', 0.92000000000000004)
