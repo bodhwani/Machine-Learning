@@ -18,9 +18,9 @@ K-nearest neighbors (KNN) can be used for both classification and regression pre
 
 First let us try to understand what exactly does K influence in the algorithm. If we see the last example, given that all the 6 training observation remain constant, with a given K value we can make boundaries of each class. These boundaries will segregate RC from GS. The same way, let’s try to see the effect of value “K” on the class boundaries. Following are the different boundaries separating the two classes with different values of K.
 
-![alt text](../../screenshots/kjudgement1.png "K Judgement-1")
+![alt text](../screenshots/kjudgement1.png "K Judgement-1")
 <br>
-![alt text](../../screenshots/kjudgement2.png "K Judgement-2")
+![alt text](../screenshots/kjudgement2.png "K Judgement-2")
 If you watch carefully, you can see that the boundary becomes smoother with increasing value of K. With K increasing to infinity it finally becomes all blue or all red depending on the total majority
 
 It is also a lazy algorithm. What this means is that it does not use the training data points to do any generalization. In other words, there is no explicit training phase or it is very minimal. This means the training phase is pretty fast . Lack of generalization means that KNN keeps all the training data. More exactly, all the training data is needed during the testing phase. This is in contrast to other techniques like SVM where you can discard all non support vectors without any problem.  Most of the lazy algorithms – especially KNN – makes decision based on the entire training data set (in the best case a subset of them).

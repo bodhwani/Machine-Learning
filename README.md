@@ -56,7 +56,7 @@ Further description is provided according to the topics(below), to let you under
 - <a href="https://github.com/bodhwani/Machine-Learning/tree/master/Lecture-1%5BNaive-Bayes%5D">**Naive Bayes**</a>
 - <a href="https://github.com/bodhwani/Machine-Learning/tree/master/Lecture-2%5BSVM%5D">**SVM**</a>
 - <a href="https://github.com/bodhwani/Machine-Learning/tree/master/Lecture-3%5BDecision%20Trees%5D">**Decision Trees**</a>
-- <a href="">**Learn your own algorithm**</a>
+- <a href="https://github.com/bodhwani/Machine-Learning/tree/master/Lecture-4%5BChoose%20Algorithms%5D">**Learn your own algorithm**</a>
 
 
 <br>
