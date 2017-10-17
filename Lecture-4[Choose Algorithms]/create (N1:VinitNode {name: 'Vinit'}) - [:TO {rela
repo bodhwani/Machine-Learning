@@ -1,0 +1,2 @@
+create (N1:VinitNode {name: 'Vinit'}) - [:TO {relationship: 'knows'}] -> (N2:VinitNode {name: 'Harry'}),
+(N2) - [:TO {relationship: 'co-worker'}] -> (N3:VinitNode {name: 'Julian', job: 'plumber'}),(N2) - [:TO {relationship: 'wife'}] -> (N4:VinitNode {name: 'Disha', job: 'accountant'}), (N1) - [:TO {relationship: 'wife'}] -> (N5:VinitNode {name: 'Nikita', job: 'manager'}), (N4) - [:TO {relationship: 'friend'}] -> (N5),(N5) - [:TO {relationship: 'knows'}] -> (N6:VinitNode {name: 'Akansha'})
