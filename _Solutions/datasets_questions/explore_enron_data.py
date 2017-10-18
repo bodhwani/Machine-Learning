@@ -19,6 +19,7 @@ import pickle
 
 enron_data = pickle.load(open("../final_project/final_project_dataset.pkl", "r"))
 d = enron_data
+print d
 #Count no of features available in dataset.
 #print enron_data
 #print len(enron_data.values()[0])
