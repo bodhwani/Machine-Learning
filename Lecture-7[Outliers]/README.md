@@ -18,7 +18,7 @@ In case of fraud detection, people pay attention to remove outliers(called as fr
 
 For example, given figure has highest residual error :
 
-![alt text](../screenshots/residualError.png, "Highest residual error")
+![alt text](../screenshots/residualError.png "High Residual Error")
 
 
 **What we'll do is fit the regression on all training points discard the 10% of points that have the largest errors between the actual y values, and the regression-predicted y values refit on the remaining points**
