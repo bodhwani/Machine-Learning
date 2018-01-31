@@ -1,3 +1,11 @@
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Oct 29 15:47:15 2017
+
+@author: Vinit
+"""
+
 #!/usr/bin/python
 
 """ 
@@ -46,6 +54,7 @@ print "training time:", round(time()-t0, 3), "s"
 
 t0 = time()
 pred = clf.predict(features_test)
+print "This is prediction",pred
 print "prediction time:", round(time()-t0, 3), "s"
 
 

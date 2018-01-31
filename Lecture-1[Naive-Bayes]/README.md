@@ -5,6 +5,9 @@ Naive Bayes model is easy to build and particularly useful for very large data s
 <br> 
 For more information, refer to <a href="https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/">this link</a>
 
+### Project Description :
+
+We have emails from two persons. We are going to identify who will be the author of emails, using Naive Bayes Classification. So we have bunch of emails from person1 and same with person2 and we have predicted who is the author of an unseen email.
 
 ### Let's code
 Naive Bayes predictions in text classifier. This code will be using scikit-learn, so if you dont know sklearn, then no need to worry. You can learn and understand code at <a href="http://scikit-learn.org/">Sklearn Documentation</a>

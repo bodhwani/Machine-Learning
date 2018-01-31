@@ -50,14 +50,20 @@ them into a particular manner.<br>
 Eg- Social Network Analysis - Based on emails or chat,identifying which are group of friends that know each other.<br>
 Further description is provided according to the topics(below), to let you understand better!
 
-
-### Supervised Learning 
+Refer these for more information.
 
 - <a href="https://github.com/bodhwani/Machine-Learning/tree/master/Lecture-1%5BNaive-Bayes%5D">**Naive Bayes**</a>
 - <a href="https://github.com/bodhwani/Machine-Learning/tree/master/Lecture-2%5BSVM%5D">**SVM**</a>
 - <a href="https://github.com/bodhwani/Machine-Learning/tree/master/Lecture-3%5BDecision%20Trees%5D">**Decision Trees**</a>
-- <a href="https://github.com/bodhwani/Machine-Learning/tree/master/Lecture-4%5BChoose%20Algorithms%5D">**Learn your own algorithm**</a>
+- <a href="https://github.com/bodhwani/Machine-Learning/tree/master/Lecture-4%5BChoose%20Algorithms%5D">**Learn your own 
+algorithm**</a>
 
+- <a href="https://github.com/bodhwani/Machine-Learning/tree/master/Lecture-5%5BDatasets%20and%20Questions%5D">**Datasets and Questions**</a>
+- <a href="https://github.com/bodhwani/Machine-Learning/tree/master/Lecture-6%5BRegression%5D">**Regression**</a>
+- <a href="https://github.com/bodhwani/Machine-Learning/tree/master/Lecture-7%5BOutliers%5D">**Outliers**</a>
+
+You can find <a href="https://github.com/bodhwani/Machine-Learning/tree/master/Assignments">Solutions here</a>.
+Questions are uploaded in <a href="https://github.com/bodhwani/Machine-Learning/tree/master/_Solutions">Assignment Section</a>
 
 <br>
 
